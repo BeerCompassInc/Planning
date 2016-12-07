@@ -5,11 +5,11 @@ Project overview, user stories, learning objectives...
 
 Project Description
 -------------------
-Gretel is an app inspired by the [exquisite corpse](http://en.wikipedia.org/wiki/Exquisite_corpse) writing game. The app adds a geolocation element to the game where participants must physically go to the location of a story to be able to contribute. 
+BeerCompass is a mobile first app that enhances the experience of an evenings drinking. Find bars, find your drinking team, located cash, bars, deals, and allow vendors to post specials on the fly during the evenings festivites. 
 
-The app has a Rails backend for user authentication and the db of stories and contributions. 
-There is a phone app for ios and android built on cordova. 
-There is also a responsive desktop version of the app.
+Find your way home, track your movements, take memorable photos (and immemorable). Take down phone numbers and personal details. Even filter with beer googles.
+
+Want food. No problem. List all the eateries open in your locale. 
 
 App link:
 ---------
