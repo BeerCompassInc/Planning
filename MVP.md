@@ -5,8 +5,8 @@ A USER
 ------
 
 ###SIGNUP AND LOGIN
-* <s>Using Oauth</s>
-* <s>Facebook/Google</s>
+* Using Oauth
+* Facebook/Google
 
 
 The following relies on Here maps
