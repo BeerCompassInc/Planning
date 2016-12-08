@@ -1,33 +1,25 @@
-MVP
+MVP (AIM FOR SATURDAY)
 ===
 
 A USER
 ------
 
-###CAN READ THE RULES  
-
-###CREATE A GEO STORY
-* <s>give the story a title</s>
-* <s>give the story a contribution limit</s>
-* the story location is set to user's current location
-* <s>story is automatically public</s>
-* <s>make the first contribution to the story (takes username)</s>
+###SIGNUP AND LOGIN
+* <s>Using Oauth</s>
+* <s>Facebook/Google</s>
 
 
-The following relies on google maps
+The following relies on Here maps
 -----------------------------------
 
-###CAN SEARCH FOR NEARBY STORIES WITHIN RADIUS OF CURRENT LOCATION  
-* Search by typing location anywhere in the world.
-* Search for nearby stories by click.
+###CAN PUSH A BUTTON TO START "RECORDING" THE EVENING
+* app will track movements for the evening
+* app will save the movements
 
-###CAN SELECT GEOSTORY WHEN IN ZONE  
-* select pin on google maps  
-* can see the title  
-* can see the last contribution  
-* contribute to the geo story in text area  
-* save geo story  
+###CAN PLOT A COURSE FOR THE EVENING'S FESTIVITIES
+* Select establishments to visit 
+
+###CAN REVIEW MOVEMENTS AT A LATER DATE
+* App will display a map with course plotted.
 
 
-###view the full story for teh lolz.  
-* Completed stories page with stories displayed on map.
