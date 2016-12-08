@@ -9,3 +9,5 @@ GROUP OBJECTIVES (PERSONAL TO BE ADDED WHEN/IF REQUIRED)
 * Google API 
 * Here Maps API
 * BDD
+* Cordova
+* Phone Gap
