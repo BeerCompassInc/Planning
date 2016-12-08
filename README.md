@@ -1,4 +1,4 @@
-[![Stories in Ready](https://badge.waffle.io/CorpseBook/Planning.png?label=ready&title=Ready)](https://waffle.io/GretelNZ/Planning)
+
 Planning  
 ========
 Project overview, user stories, learning objectives... 
@@ -13,35 +13,26 @@ Want food. No problem. List all the eateries open in your locale.
 
 App link:
 ---------
-You can find the currently deployed app at gretel.nz
+Server side will be deployed to Heroku
+Client side deployed to Github pages
+Aiming to publish to Google Play Store
 
 Github workflow
 ---------------
-* Master always has passing tests.
-* Pull requests approved by Zombee
-* Features should be built on branches and the merged via pull request.
+* Branches, committed and pushed
+* Master pulled and merged into branch
+* Conflicts resolved/If no conflicts...
+* Rerun tests, fix errors if prev. passes fail
+* Push branch when fixed and submit pull request
+* The day's Git master reviews, when OK notifies team of intent and merges to master.
 
-Team Roles / Accountabilities
------------------------------
-
-###Zombee
-
-We have an odd number of team members so the odd one out gets to be the Zombee. Everyone will get a turn at being the zombee for a whole day. They:
-
-* Organise and enforce mandatory fun times at 3pm.
-* Approve pull requests.
-* Available to swarm.
-* Does agile tasks.
-* Project manages.
 
 Typical Day Plan
 ----------------
 * Hours are 9-9 until we hit MVP and then we can review.
-* Retrospective in morning.
-* 11:50 standup
-* Lunch from 12-1.
-* Mandatory fun at 3.
-* 6pm standup
+* Standups: 9am, Midday-ish, End of Day
+* Normal EDA lunch period
+* Mandatory fun at 3.30
 * 9pm guilt free home time.
 
 
